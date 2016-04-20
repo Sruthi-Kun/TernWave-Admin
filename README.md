@@ -1,2 +1,2 @@
 # TernWave-Admin
-Admin Course Module of Ternwave
+Admin Course Module of Ternwave project
